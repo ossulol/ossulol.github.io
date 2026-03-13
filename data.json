@@ -1,0 +1,44 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Oskar",
+			"Surname": "Ling",
+			"ImageURL": "https://commons.wikimedia.org/wiki/File:Inbound5918228931332232277.jpg"
+		},
+		{
+			"ID": 2,
+			"Forename": "Rauno",
+			"Surname": "Ling",
+			"ImageURL": "https://commons.wikimedia.org/wiki/File:Inbound6785659753935383282.jpg"
+		}
+	],
+	"ClubData": [
+		{
+			"ID": 1,
+			"Name": "LÃ¤Ã¤nemaa JK",
+			"ShortName": "LJK",
+			"ImageURL": "https://commons.wikimedia.org/wiki/File:Inbound7466586189712764443.png"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 28,
+			"Name": "Meistriliiga",
+			"ImageURL": "https://commons.wikimedia.org/wiki/File:Inbound8417380300699776851.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 2,
+			"Name": "Eesti Karikas",
+			"ImageURL": "https://commons.wikimedia.org/wiki/File:Inbound7065938968591964408.jpg"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Haapsalu Linnastaadion"
+		}
+	]
+}
